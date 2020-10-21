@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLogic.TestMain" tests="3" skipped="0" failures="0" errors="0" timestamp="2020-10-21T11:19:02" hostname="LAPTOP-M2034987" time="0.095">
+  <properties/>
+  <testcase name="testListToJson1()" classname="TestLogic.TestMain" time="0.089"/>
+  <testcase name="testListToJson2()" classname="TestLogic.TestMain" time="0.002"/>
+  <testcase name="testListToJson_empty()" classname="TestLogic.TestMain" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

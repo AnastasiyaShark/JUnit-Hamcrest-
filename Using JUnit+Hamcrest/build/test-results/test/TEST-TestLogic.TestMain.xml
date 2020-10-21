@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="TestLogic.TestMain" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-10-21T17:34:49" hostname="LAPTOP-M2034987" time="0.072">
+  <properties/>
+  <testcase name="testListToJson1()" classname="TestLogic.TestMain" time="0.056"/>
+  <testcase name="testListToJson2()" classname="TestLogic.TestMain" time="0.002"/>
+  <testcase name="givenNumber_whenConditions_thenCorrect()" classname="TestLogic.TestMain" time="0.004"/>
+  <testcase name="testListToJson_empty()" classname="TestLogic.TestMain" time="0.001"/>
+  <testcase name="givenString_whenConditions_thenCorrect()" classname="TestLogic.TestMain" time="0.005"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
